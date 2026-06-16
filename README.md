@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm Amir Ahmadpour
 
-<!--
-**amirahmadpoor/amirahmadpoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer from Iran 🇮🇷
 
-Here are some ideas to get you started:
+I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainable, and user-centered web applications. My goal is to craft digital experiences that are not only visually appealing but also fast, accessible, and practical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Front-End Developer
+* 🌱 Currently improving my JavaScript skills
+* 🎯 Interested in Web Development and UI/UX
+* 📚 Always learning and exploring new technologies
+* ⚡ Turning ideas into interactive web experiences
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirahmadpoor\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [amirahmadpour2006@gmail.com](mailto:amirahmadpour2006@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/amir-ahmadpour-20244237a
+
+---
+
+## 📌 Featured Projects
+
+Coming Soon...
+
+---
+
+### ✨ Quote
+
+> Great things are built one line of code at a time.

@@ -24,8 +24,9 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor\&layout=compact)
 
 ---
 

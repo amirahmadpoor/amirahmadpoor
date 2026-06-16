@@ -24,6 +24,11 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
+📊 GitHub Stats
+
+
+---
+
 ## 🌐 Connect With Me
 
 📧 Email: [amirahmadpour2006@gmail.com](mailto:amirahmadpour2006@gmail.com)

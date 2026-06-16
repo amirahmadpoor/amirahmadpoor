@@ -24,14 +24,6 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-## 📊 GitHub Stats
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirahmadpoor\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: [amirahmadpour2006@gmail.com](mailto:amirahmadpour2006@gmail.com)

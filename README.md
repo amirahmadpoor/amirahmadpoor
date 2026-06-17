@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amir Ahmadpour
 
-### Front-End Developer from Iran 🇮🇷
+### Front-End Developer from Iran 
 
 I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainable, and user-centered web applications. My goal is to craft digital experiences that are not only visually appealing but also fast, accessible, and practical.
 

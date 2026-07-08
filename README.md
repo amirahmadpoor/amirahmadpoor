@@ -33,19 +33,16 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 <div align="center">
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
-
     <!-- Overall Stats -->
     <div style="flex: 1; min-width: 300px; max-width: 420px;">
       <strong>🔥 Overall Stats</strong><br>
       <img src="https://github-readme-stats.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 100%; height: auto;" />
     </div>
-
     <!-- Top Languages -->
     <div style="flex: 1; min-width: 300px; max-width: 420px;">
       <strong>🏆 Top Languages</strong><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" style="width: 100%; height: auto;" />
     </div>
-
     <!-- Contribution Streak -->
     <div style="flex: 1; min-width: 300px; max-width: 420px;">
       <strong>📈 Contribution Streak</strong><br>

@@ -26,8 +26,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-<div align="center">
-    <div style="display: flex; justify-content: center; align-items:center; flex-direction:row; gap: 20px; width: 100%;">
+<div style="display: flex; justify-content: center; align-items:center; flex-direction:row; gap: 20px; width: 100%;">
         <div>
           <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
         </div>
@@ -37,7 +36,6 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
         <div>
           <img src="https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight" alt="GitHub Streak" />
         </div>
-    </div>
 </div>
 
 ---

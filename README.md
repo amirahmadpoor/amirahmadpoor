@@ -27,13 +27,28 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 ---
 
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirahmadpoor&theme=tokyonight)
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+    <!-- Overall Stats -->
+    <div style="flex: 1; min-width: 300px; max-width: 420px;">
+      <strong>🔥 Overall Stats</strong><br>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 100%; height: auto;" />
+    </div>
+    <!-- Top Languages -->
+    <div style="flex: 1; min-width: 300px; max-width: 420px;">
+      <strong>🏆 Top Languages</strong><br>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" style="width: 100%; height: auto;" />
+    </div>
+    <!-- Contribution Streak -->
+    <div style="flex: 1; min-width: 300px; max-width: 420px;">
+      <strong>📈 Contribution Streak</strong><br>
+      <img src="https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight" alt="GitHub Streak" style="width: 100%; height: auto;" />
+    </div>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirahmadpoor&theme=tokyonight)
-
-![Contribution Streak](https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight&hide_border=true)
+  </div>
 
 </div>
 

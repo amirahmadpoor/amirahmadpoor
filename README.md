@@ -24,7 +24,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma,git,vscode,github&perline=7" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,git,vscode,github&perline=7" alt="tech stack" />
 
 </div>
 

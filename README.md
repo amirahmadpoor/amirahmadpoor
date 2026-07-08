@@ -1,5 +1,5 @@
-<div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=220&section=header&text=Amir%20Ahmadpour&fontSize=50&fontAlignY=35&animation=twinkling" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&width=2000&height=220&section=header&text=Amir%20Ahmadpour&fontSize=50&fontAlignY=35&animation=twinkling" alt="header" />
 </div>
 
 # Hi there 👋, I'm Amir Ahmadpour

@@ -26,9 +26,6 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-## 📊 GitHub Statistics
-
-## 📊 My GitHub Statistics
 
 <div align="center">
 

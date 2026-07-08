@@ -22,7 +22,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,git,vscode,github&perline=7" alt="tech stack" />
 
@@ -54,6 +54,3 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=100&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8" alt="footer" />
-</div>

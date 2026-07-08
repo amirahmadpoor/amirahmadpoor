@@ -29,6 +29,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 ## 📊 GitHub Stats
 
 <div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
     <!-- Overall Stats -->
     <div style="flex: 1; min-width: 300px; max-width: 420px;">
       <strong>🔥 Overall Stats</strong><br>
@@ -44,7 +45,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
       <strong>📈 Contribution Streak</strong><br>
       <img src="https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight" alt="GitHub Streak" style="height: auto;" />
     </div>
-
+    </div>
 </div>
 
 ---

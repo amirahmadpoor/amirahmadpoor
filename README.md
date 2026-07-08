@@ -31,7 +31,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; ">
     <!-- Overall Stats -->
     <div style="flex: 1; min-width: 100px; max-width: 220px;">
       <strong>🔥 Overall Stats</strong><br>

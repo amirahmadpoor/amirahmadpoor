@@ -1,15 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=280&section=header&text=Amir%20Ahmadpour&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" />
-  
-  <h3>Frontend Developer | Crafting Beautiful Digital Experiences</h3>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=220&section=header&text=Amir%20Ahmadpour&fontSize=50&fontAlignY=35&animation=twinkling" alt="header" />
 </div>
+
+# Hi there 👋, I'm Amir Ahmadpour
+
+### Front-End Developer from Iran
+
+I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainable, and user-centered web applications. My goal is to craft digital experiences that are not only visually appealing but also fast, accessible, and practical.
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-**Frontend Developer** از مشهد، عاشق ساخت رابط‌های کاربری تمیز، سریع و کاربرپسند.  
-تمرکزم روی **JavaScript مدرن**، **UI/UX** و تبدیل ایده‌ها به وب‌سایت‌های زنده و تعاملیه.
+* 💻 Front-End Developer  
+* 🌱 Currently improving my JavaScript skills  
+* 🎯 Interested in Web Development and UI/UX  
+* 📚 Always learning and exploring new technologies  
+* ⚡ Turning ideas into interactive web experiences  
 
 ---
 
@@ -17,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,figma,git,vscode,github&perline=8" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma,git,vscode,github&perline=7" alt="tech stack" />
 
 </div>
 
@@ -27,33 +34,26 @@
 
 <div align="center">
 
+### 🔥 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor&layout=donut&theme=tokyonight&hide_border=true&langs_count=10)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight&hide_border=true&border_radius=12)
+### 📈 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-- **[🎟️ Ticket Cinema](https://github.com/amirahmadpoor/ticket-cinema)** — Cinema Ticket Booking UI (HTML, CSS, Vanilla JS)
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-ahmadpour-20244237a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirahmadpour2006@gmail.com)
-
-</div>
+📧 **amirahmadpour2006@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/amir-ahmadpour-20244237a)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4f46e5&height=120&section=footer&text=Thank%20You%20for%20Visiting%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=100&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8" alt="footer" />
 </div>

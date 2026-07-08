@@ -26,7 +26,18 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&langs_count=8)
+<div align="center">
+
+### 🔥 Total Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+
+### 🏆 Top Languages (همه زبان‌ها)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadpoor&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5)
+
+### 📈 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
 
 ---
 

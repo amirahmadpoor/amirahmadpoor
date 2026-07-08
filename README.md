@@ -26,18 +26,14 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-<div style="display: flex; justify-content: center; align-items:center; flex-direction:row; gap: 20px; width: 100%;">
-        <div>
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-        </div>
-        <div>
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-        </div>
-        <div>
-          <img src="https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight" alt="GitHub Streak" />
-        </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight" height="180"/>
+</p>
 ---
 
 ## 🌐 Connect With Me

@@ -52,6 +52,26 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 </div>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; width: 100%; max-width: 1200px;">
+    <!-- Stats Card -->
+    <div style="flex: 1; min-width: 320px;">
+      ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirahmadpoor&theme=tokyonight)
+    </div>
+    <!-- Top Languages -->
+    <div style="flex: 1; min-width: 320px;">
+      ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirahmadpoor&theme=tokyonight)
+    </div>
+    <!-- Streak -->
+    <div style="flex: 1; min-width: 320px;">
+      ![Contribution Streak](https://streak-stats.demolab.com/?user=amirahmadpoor&theme=tokyonight)
+    </div>
+
+  </div>
+</div>
+
 ---
 
 ## 🌐 Connect With Me

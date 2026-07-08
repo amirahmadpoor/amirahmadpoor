@@ -28,7 +28,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 ### 🔥 Overall Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true)

@@ -26,10 +26,6 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <div align="center">
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">

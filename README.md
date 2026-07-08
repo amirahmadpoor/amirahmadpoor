@@ -27,8 +27,8 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
 </p>
 
 ---

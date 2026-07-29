@@ -36,7 +36,7 @@ I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainabl
 ## 🌐 Connect With Me
 
 **amirahmadpour2006@gmail.com**  
-[LinkedIn](https://www.linkedin.com/in/amir-ahmadpour-20244237a)
+[LinkedIn](https://www.linkedin.com/in/amir-ahmadpour-20244237a) </br>
 [Telegram](https://t.me/Ahmadpourdev)
 
 

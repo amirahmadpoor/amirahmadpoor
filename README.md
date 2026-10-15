@@ -2,7 +2,7 @@
 
 ### Front-End Developer from Iran
 
-I'm Amir Ahmadpour, a Front-End Developer focused on building clean, maintainable, and user-centered web applications. My goal is to craft digital experiences that are not only visually appealing but also fast, accessible, and practical.
+I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript, and I am currently expanding my skills in React. My goal is to join a professional work environment and gain hands-on experience alongside a technical team. By focusing on building personal projects and contributing to real-world projects, I aim to refine my coding practices, enhance my problem-solving abilities, and further develop my skills on my path to becoming a professional front-end developer.
 
 ---
 

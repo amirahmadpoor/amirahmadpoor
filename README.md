@@ -36,13 +36,13 @@ I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript,
 ## 🌐 Connect With Me
 
 <a href="mailto:amirahmadpour2006@gmail.com">
-  ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+  <img src="hhttps://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/amir-ahmadpour">
-  ![LinkedIn](https://img.shields.io/badge/Linkedin-%23006BFF.svg?style=for-the-badge&logo=Linkedin-&logoColor=white)
+  <img src="https://img.shields.io/badge/Linkedin-%23006BFF.svg?style=for-the-badge&logo=Linkedin-&logoColor=white"/>
 </a>
 <a href="https://t.me/Ahmadpourdev">
-  ![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)
+  <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 

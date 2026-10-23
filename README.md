@@ -25,6 +25,7 @@ I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript,
 </div>
 
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true&height=180"/>

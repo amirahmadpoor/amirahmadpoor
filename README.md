@@ -7,7 +7,6 @@ I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript,
 ---
 
 ## 🚀 About Me
-
 * 💻 Front-End Developer  
 * 🌱 Currently improving my JavaScript skills  
 * 🎯 Interested in Web Development and UI/UX  

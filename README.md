@@ -4,16 +4,17 @@
 
 I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript, and I am currently expanding my skills in React. My goal is to join a professional work environment and gain hands-on experience alongside a technical team. By focusing on building personal projects and contributing to real-world projects, I aim to refine my coding practices, enhance my problem-solving abilities, and further develop my skills on my path to becoming a professional front-end developer.
 
----
+
 
 ## 🚀 About Me
+
 * 💻 Front-End Developer  
 * 🌱 Currently improving my JavaScript skills  
 * 🎯 Interested in Web Development and UI/UX  
 * 📚 Always learning and exploring new technologies  
 * ⚡ Turning ideas into interactive web experiences  
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -23,14 +24,14 @@ I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript,
 
 </div>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahmadpoor&show_icons=true&theme=tokyonight&hide_border=true&height=180"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahmadpoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=180"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -45,5 +46,5 @@ I am a front-end developer with a solid foundation in HTML, CSS, and JavaScript,
 </a>
 
 
----
+
 
